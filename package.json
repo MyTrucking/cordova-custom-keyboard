@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mnill/cordova-custom-keyboard.git"
+    "url": "git+https://github.com/MyTrucking/cordova-custom-keyboard.git"
   },
   "keywords": [
     "cordova",
@@ -27,7 +27,7 @@
   "author": "",
   "license": "Apache 2.0",
   "bugs": {
-    "url": "https://github.com/mnill/cordova-custom-keyboard/issues"
+    "url": "https://github.com/MyTrucking/cordova-custom-keyboard/issues"
   },
-  "homepage": "https://github.com/mnill/cordova-custom-keyboard#readme"
+  "homepage": "https://github.com/MyTrucking/cordova-custom-keyboard#readme"
 }
